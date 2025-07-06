@@ -6,7 +6,3 @@ test from github
 
 
 fix2 changes223
-
-
-
-fix3 checkout from Petya!
